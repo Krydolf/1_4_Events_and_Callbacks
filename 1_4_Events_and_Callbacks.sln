@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1_4_Events_and_Callbacks", "1_4_Events_and_Callbacks\1_4_Events_and_Callbacks.csproj", "{F55E2C20-2691-4939-970B-638B67CBB7B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F55E2C20-2691-4939-970B-638B67CBB7B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F55E2C20-2691-4939-970B-638B67CBB7B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F55E2C20-2691-4939-970B-638B67CBB7B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F55E2C20-2691-4939-970B-638B67CBB7B2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CA90499E-279C-4206-82E4-D1C75CAD7ED5}
+	EndGlobalSection
+EndGlobal
